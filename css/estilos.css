@@ -5,3 +5,10 @@ body{
     font-family: Arial;
 
 }
+#cuerpo {
+
+    border: 1px solid red;
+    width: auto;
+    height: 500px;
+    
+}
